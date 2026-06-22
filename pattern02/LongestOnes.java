@@ -1,3 +1,4 @@
+package pattern02;
 public class LongestOnes {
   public int longestOnes(int[] nums, int k) {
     int maxLength = 0;
